@@ -1,0 +1,39 @@
+Summary
+Hours
+Days
+Months
+
+Summary
+Top 10 days
+Last 24 hours
+Last 30 days
+Last 12 months
+
+In
+Out
+Total
+
+This hour
+This day
+This month
+All time
+
+Traffic data for %s (%s)
+Traffic data for %s
+Last update: %s
+
+In
+Out
+Total
+
+%d %B
+%d
+%B %Y
+%b
+%I:00 %p
+%l
+%d %B %Y
+%d %B %Y %I:%M %p
+
+-
+-
