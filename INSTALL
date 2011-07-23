@@ -1,0 +1,21 @@
+	INSTALL
+
+	1. Preparation
+	2. Compile
+	3. Install
+
+----------
+
+1. Preparation
+
+- Copy the file config/config.conf (for example) to /etc/vnstat-cgi/
+- Copy the directory lang/ (for example) to /usr/share/vnstat-cgi/
+- Open the file src/defines.h and modify the macros CONFIG_PATH and LANG_PATH to suit your needs
+
+2. Compile
+
+$ make
+
+3. Install
+
+- Copy the file vnstat-cgi to the cgi-bin of your webserver
