@@ -2,7 +2,7 @@ CC      = gcc
 CFLAGS  = -O3
 LDFLAGS = -lm
 
-BIN = vnstat
+BIN = vnstat-cgi
 OBJ = cgi.o config.o error.o language.o main.o output.o vnstat.o
 SRC = $(OBJ:%.o=src/%.c)
 DEPENDFILE = DEPEND
